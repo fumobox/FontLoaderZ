@@ -1,0 +1,15 @@
+{
+    "name": "FontLoaderZ.Examples",
+    "references": [
+        "GUID:b2d08ebf6ca2a0b4288b1122ed6eb631"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
